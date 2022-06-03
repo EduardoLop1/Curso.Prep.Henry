@@ -1,0 +1,2 @@
+for: corresponde a un bucle en lenguaje de programacion, donde se inicia con un valor y va iterando hasta un limete.
+&&, ||, !: son valores logicos que corresponde a y, o y negativo, son usados para condicionales.
