@@ -1,0 +1,1 @@
+Arrays: Es un conjunto de elementos que puede alvergar diferentes tipos de datos, ya sea numericos, texto, null, undefined, arreglos, funciones, cada elementos tiene una posicion que empieza en 0
